@@ -1,3 +1,5 @@
+🎉🎉🎉 **We are proud to announce that the dMMM dApp will be updated with a brand new UI version in May!** 🎉🎉🎉
+
 # dMMM
 
 dMMM является аббревиатурой для Decentralized МММ, "децентрализованный МММ".
@@ -44,3 +46,13 @@ dMMM является аббревиатурой для Decentralized МММ, "�
 
 ## dMMM dApp
 [https://dmmm.io](https://dmmm.io)
+
+## dMMM Contract Source Code
+[https://github.com/d-mmm/dmmm-source/](https://github.com/d-mmm/dmmm-source/)
+
+## dMMM ABI Source File
+[https://github.com/d-mmm/dmmm-source/blob/master/abi/TokenBank.abi](https://github.com/d-mmm/dmmm-source/blob/master/abi/TokenBank.abi)
+
+## dMMM News
+🎉🎉🎉 We are proud to announce that the dMMM dApp will be updated with a brand new UI version in May! 🎉🎉🎉
+
