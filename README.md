@@ -56,3 +56,6 @@ dMMM является аббревиатурой для Decentralized МММ, "�
 ## dMMM News
 🎉🎉🎉 We are proud to announce that the dMMM dApp will be updated with a brand new UI version in May! 🎉🎉🎉
 
+## Announcement for imToken
+[https://d-mmm.github.io/announcements/token-info-for-imtoken.md](https://d-mmm.github.io/announcements/token-info-for-imtoken.md)
+
