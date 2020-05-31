@@ -1,4 +1,4 @@
-🎉🎉🎉 **We are proud to announce that the dMMM dApp will be updated with a brand new UI version in May!** 🎉🎉🎉
+🎉🎉🎉 **Dear users, we are very sorry to inform you that in order to guarantee the perfect quality and excellent user experience of the formal version of dMMM, we must postpone the formal version of dMMM that was originally scheduled to be released in May until June.** 🎉🎉🎉
 
 # dMMM
 
@@ -54,7 +54,7 @@ dMMM является аббревиатурой для Decentralized МММ, "�
 [https://github.com/d-mmm/dmmm-source/blob/master/abi/TokenBank.abi](https://github.com/d-mmm/dmmm-source/blob/master/abi/TokenBank.abi)
 
 ## dMMM News
-🎉🎉🎉 We are proud to announce that the dMMM dApp will be updated with a brand new UI version in May! 🎉🎉🎉
+🎉🎉🎉 Dear users, we are very sorry to inform you that in order to guarantee the perfect quality and excellent user experience of the formal version of dMMM, we must postpone the formal version of dMMM that was originally scheduled to be released in May until June. 🎉🎉🎉
 
 ## Announcement for imToken
 [https://d-mmm.github.io/announcements/token-info-for-imtoken.md](https://d-mmm.github.io/announcements/token-info-for-imtoken.md)
