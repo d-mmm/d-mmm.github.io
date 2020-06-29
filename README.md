@@ -1,4 +1,4 @@
-🎉🎉🎉 **Dear users, we are very sorry to inform you that in order to guarantee the perfect quality and excellent user experience of the formal version of dMMM, we must postpone the formal version of dMMM that was originally scheduled to be released in May until June.** 🎉🎉🎉
+**Dear users, after months of preparation, we expect to officially upgrade the UI of dMMM at 10pm San Francisco time. Please do not worry that the UI will be temporarily inaccessible during the upgrade. We will make an official announcement after the upgrade is completed. Stay tuned**
 
 # dMMM
 
