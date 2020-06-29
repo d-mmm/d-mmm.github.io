@@ -16,13 +16,13 @@ dMMM Exchange Contract ENS: dmmm.eth
 4. Adopts vanity address
 dMMM pioneer adopts the Vanity Address, a special, specified address prefix, which is more recognizable, prevents misoperation, and is easier to prevent counterfeiting.
 
-dMMM Token Contract: 0xdB0000013B1223A8EeF5Fac8FdcB1FBf72fD62D4
+dMMM Token Contract:       **0xdB00000**13B1223A8EeF5Fac8FdcB1FBf72fD62D4
 
-dMMM Game Contract: 0xd0000006196c4c44acfc3961c95f61A59a58Fe3D
+dMMM Game Contract:        **0xd000000**6196c4c44acfc3961c95f61A59a58Fe3D
 
-dMMM Exchange Contract: 0xdE00000AFc1a452d2e71A1f19C0f84F56edCF45c
+dMMM Exchange Contract:    **0xdE00000**AFc1a452d2e71A1f19C0f84F56edCF45c
 
-dMMM Lucky Bonus Contract: 0xD1000003d06134C623e7818F8D7c01a6F4a7a071
+dMMM Lucky Bonus Contract: **0xD100000**3d06134C623e7818F8D7c01a6F4a7a071
 
 5. Built-in independent decentralized exchange
 No longer rely on any centralized exchange, all transaction records are traceable on the Ethereum blockchain, more secure and transparent.
@@ -82,14 +82,11 @@ dMMM является аббревиатурой для Decentralized МММ, "�
 ## dMMM dApp
 [https://dmmm.io](https://dmmm.io)
 
-## dMMM Contract Source Code
+## dMMM Contract Source Code (OLD)
 [https://github.com/d-mmm/dmmm-source/](https://github.com/d-mmm/dmmm-source/)
 
-## dMMM ABI Source File
+## dMMM ABI Source File (OLD)
 [https://github.com/d-mmm/dmmm-source/blob/master/abi/TokenBank.abi](https://github.com/d-mmm/dmmm-source/blob/master/abi/TokenBank.abi)
-
-## dMMM News
-🎉🎉🎉 Dear users, we are very sorry to inform you that in order to guarantee the perfect quality and excellent user experience of the formal version of dMMM, we must postpone the formal version of dMMM that was originally scheduled to be released in May until June. 🎉🎉🎉
 
 ## Announcement for imToken
 [https://d-mmm.github.io/announcements/token-info-for-imtoken.md](https://d-mmm.github.io/announcements/token-info-for-imtoken.md)
