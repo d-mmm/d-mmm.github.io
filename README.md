@@ -104,5 +104,8 @@ dMMM является аббревиатурой для Decentralized МММ, "�
 [https://github.com/d-mmm/dmmm-source/blob/master/abi/TokenBank.abi](https://github.com/d-mmm/dmmm-source/blob/master/abi/TokenBank.abi)
 
 ## Announcement for imToken
-[https://d-mmm.github.io/announcements/token-info-for-imtoken.md](https://d-mmm.github.io/announcements/token-info-for-imtoken.md)
+[https://d-mmm.github.io/announcements/token-info-for-imtoken](https://d-mmm.github.io/announcements/token-info-for-imtoken)
+
+## Official announcement about token update:
+https://d-mmm.github.io/announcements/update-logo-and-contract
 
