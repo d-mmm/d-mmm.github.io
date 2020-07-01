@@ -7,3 +7,5 @@ Dear user, we have changed our token logo and contract address due to the public
 **0xdB0000013B1223A8EeF5Fac8FdcB1FBf72fD62D4**
 
 Thanks.
+
+dMMM Team
