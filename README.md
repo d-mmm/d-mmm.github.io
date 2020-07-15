@@ -1,3 +1,15 @@
+# Lastest News
+
+Dear users,
+
+Due to the continued congestion of the Ethereum network, the Gas Price remains high. The dMMM.io platform cancels the activation process to reduce the user's miner fee expenditure, and the dMMM project is not affected in any way.
+
+dMMM.io July 14, 2020
+
+Link: [dMMM.io Cancel the Activation Process](https://d-mmm.github.io/announcements/cancel-activation-process)
+
+# Previous News
+
 Dear users, we are proud to inform you that the official version of dMMM has finally been released after an almost six-month public beta.
 
 The new official version of dMMM brings you the following outstanding features:
