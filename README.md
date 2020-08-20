@@ -7,18 +7,20 @@ we are proud to inform you that a new dApp **OccupyMatrix** developed by dMMM te
 
 Stay tuned.
 
-![OccupyMatrix is coming soon](/resources/occupymatrix_coming_soon.jpg)
+![OccupyMatrix is coming soon](https://d-mmm.github.io/resources/occupymatrix_coming_soon.jpg)
 
 dMMM Team 
 Aug 20, 2020
 
-Link: [New dApp OccupyMatrix is coming soon](announcements/occupymatrix-coming-soon)
+Link: [New dApp OccupyMatrix is coming soon](https://d-mmm.github.io/announcements/occupymatrix-coming-soon)
 
 # Previous News
 
-[dMMM.io Cancel the Activation Process](/announcements/cancel-activation-process)
-[The official version of dMMM.io is now LIVE](/announcements/official-version-live)
-[Update the logo of dMMM Token](/announcements/update-logo-and-contract)
+[dMMM.io Cancel the Activation Process](https://d-mmm.github.io/announcements/cancel-activation-process)
+
+[The official version of dMMM.io is now LIVE](https://d-mmm.github.io/announcements/official-version-live)
+
+[Update the logo of dMMM Token](https://d-mmm.github.io/announcements/update-logo-and-contract)
 
 # About dMMM
 [About dMMM](/About)
